@@ -1,0 +1,14 @@
+.four-0-four-image{
+    display: block;
+    margin: auto;
+}
+
+.four-0-four-msg{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(63, 59, 59);
+}
+
+.four-0-four-msg a{
+    color: rgb(63, 59, 59);
+}
